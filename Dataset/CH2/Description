@@ -1,1 +1,1 @@
-The file Data.mat contains the raw prices for WTI and Brent spot and futures time series.
+The file Data.mat contains the raw prices for WTI and Brent spot and futures time series stored as MATBAL .mat file.
