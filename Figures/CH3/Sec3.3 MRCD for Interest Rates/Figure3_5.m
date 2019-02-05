@@ -3,7 +3,7 @@ close all; clear; clc;
 %==========================================================================
 %
 %
-%Figure3.11: condition number of covariance matrices
+%Figure3.5: condition number of covariance matrices
 %
 %
 %==========================================================================
