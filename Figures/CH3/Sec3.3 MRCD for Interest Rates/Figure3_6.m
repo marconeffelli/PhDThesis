@@ -3,7 +3,7 @@ close all; clear; clc;
 %==========================================================================
 %
 %
-%Figure3.12 US term structure impact of different principal components
+%Figure3.6 US term structure impact of different principal components
 %
 %
 %==========================================================================
